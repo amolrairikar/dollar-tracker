@@ -1,0 +1,11 @@
+# Env files
+.env
+
+# Python environment
+env
+
+# Node modules
+node_modules
+
+# Database
+db/backups
